@@ -1,0 +1,42 @@
+body {
+  color: white;
+  background-color: #000099;
+}
+
+.status p {
+  font-size: 1.8em;
+  text-transform: capitalize;
+}
+
+header {
+  margin-bottom: 30px;
+}
+
+.temp {
+  cursor: pointer;
+  color: #006dcc;
+}
+.temp: hover {
+  color: #005096;
+}
+h1 {
+  font-size: 5em;
+}
+.all-icon {
+  margin-bottom: 20px;
+}
+div.hide {
+  display: none;
+}
+
+.wi-day-sunny {
+  position: relative;
+  font-size: 50px;
+  top: 1px;
+  color: yellow;
+}
+.slow-spin {
+  -webkit-animation: fa-spin 10s infinite linear;
+  animation: fa-spin 10s infinite linear;
+}
+
